@@ -1,45 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Aesthetic</title>
-  <style>
-    /* Styling for the links */
-    a {
-      color: blue; /* Change color */
-      text-decoration: underline; /* Add underline to the links */
-    }
+![Hows it Going](https://capsule-render.vercel.app/api?text=Hows%20it%20Going&animation=fadeIn&type=waving&color=gradient&height=100)
 
-    a:hover {
-      color: red; /* Change the color to your preferred hover color */
-    }
+[![Thundercats - Opening/Intro HD](https://i.makeagif.com/media/3-10-2016/oxzDLt.gif)](https://jdutchfoy.github.io/jdutchfoy/)
 
-    #codersrank-portfolio {
-      max-width: 100%;
-    }
-  </style>
-</head>
-<body>
+![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hows it Going&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<!-- Special thanks to thepiyushmalhotra for the inspiration and helpful code snippets. -->
 
-<p align="center">
-  <a href="/gif/thundercats-openingintro-hd-oxzDLt" title="Thundercats - Opening/Intro [HD]">
-    <img src="https://i.makeagif.com/media/3-10-2016/oxzDLt.gif" alt="Thundercats - Opening/Intro [HD]">
-  </a>
-  <div style="font-size:11px;">
-    <a href="/" title="make a gif"></a>
-  </div>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
-</p>
-
-<h1 align="center">
-  It's a Vibe✨✨
-</h1>
+# ✨✨It's a Vibe✨✨
 
 ---
 
@@ -104,7 +71,9 @@
         And the coolest part? I integrated barcode scanning functionality so you can just scan the items and get all the details instantly!
 *
 
-<!-- Codersrank Portfolio Widget -->
+[Link to my website](https://jdutchfoy.github.io/jdutchfoy/)
+
+<!-- damnit i forgot about javascript -->
 <codersrank-portfolio username="jdutchfoy" src="https://profile.codersrank.io/user/jdutchfoy"></codersrank-portfolio>
 
 <!-- Codersrank Portfolio Widget script -->
@@ -112,5 +81,4 @@
   // Register the web component
   window.customElements.define('codersrank-portfolio', CodersrankPortfolio);
 </script>
-
-</html>
+```
