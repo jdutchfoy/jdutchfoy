@@ -1,12 +1,10 @@
-jdutchfoy
+# jdutchfoy
 
-![Hows it Going](https://capsule-render.vercel.app/api?text=Hows%20it%20Going&animation=fadeIn&type=waving&color=gradient&height=100)
+![✨✨It's a Vibe✨✨](https://capsule-render.vercel.app/api?text=Hows%20it%20Going&animation=fadeIn&type=waving&color=gradient&height=100)
 
 [![Thundercats - Opening/Intro HD](https://i.makeagif.com/media/3-10-2016/oxzDLt.gif)](https://jdutchfoy.github.io/jdutchfoy/)
 
 ![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header)
-
-# ✨✨It's a Vibe✨✨
 
 ---
 
