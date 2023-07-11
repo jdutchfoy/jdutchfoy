@@ -1,10 +1,12 @@
-# jdutchfoy
+<div align="center">
 
-![✨✨It's a Vibe✨✨](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hows%20it%20Going&height=100)
+# ✨✨ It's a vibe ✨✨
 
-[![Thundercats - Opening/Intro HD](https://i.makeagif.com/media/3-10-2016/oxzDLt.gif)](https://jdutchfoy.github.io/jdutchfoy/)
+</div>
 
-![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header)
+<p align="center">
+  <img src="https://media.giphy.com/media/ahXtBEbHiraxO/giphy.gif" alt="Thundercats GIF" width="480" height="360" />
+</p>
 
 ---
 
@@ -51,24 +53,4 @@
         Managing complex lists, optimizing performance, and integrating barcode scanning were the hurdles I faced.
         But I tackled them head-on! I implemented smart state management techniques to handle those long shopping lists.
         I also optimized the app's performance to make it lightning-fast.
-        And the coolest part? I integrated barcode scanning functionality so you can just scan the items and get all the details instantly!
-    - name: "Gallery of Games"
-      description: |
-        The Gallery of Games is like a time machine that takes you back to the good old days of classic arcade-style games.
-        I built this collection using Python and the Pygame library, bringing back the nostalgic charm of games like Space Invaders, Pac-Man, and Snake.
-        It was a challenge, but I paid attention to every little detail to ensure an immersive and enjoyable gaming experience.
-      problem_solving: |
-        Figuring out collision detection, game logic, and making the games run smoothly was tough.
-        But I didn't give up! I came up with clever solutions like using bounding box detection and pixel-perfect collision methods.
-        I also optimized the game's performance to keep it running smoothly.
-    - name: "Urban Potatoes"
-      description: |
-        Imagine a website like Rotten Tomatoes, but with a twist.
-        Urban Potatoes is a movie rating platform where movie lovers and fanatics like us get to be the critics!
-        I built this platform using HTML, CSS, JavaScript, and a backend framework like Django or Node.js.
-        It's a user-friendly website where you can discover new movies, rate them, and share your reviews with the community.
-      problem_solving: |
-        Handling movie data, integrating external APIs, and managing user-generated content were real challenges.
-        But I found clever solutions! I implemented caching to improve performance and reduce API calls.
-        I also used data processing techniques to aggregate and filter movie data efficiently.
-        And of course, I made sure to handle user-generated content with proper validation and security measures.
+        And the coolest part? I integrated barcode scanning functionality so
